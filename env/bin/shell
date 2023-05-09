@@ -1,0 +1,2 @@
+#!/home/kary/Desktop/upwork project/churn_predection/env/bin/python
+from Mypackage import Myshell
